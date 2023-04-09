@@ -1,0 +1,11 @@
+Java programs (and most other programming languages) have keywords. Each has a specific meaning and sometimes they need to be used in specific order. 
+
+NOTE: keywords are case sensitive, public, Public and PUBLIC are three different things in java.
+
+Some JAVA keywords:
+1. public: an access modifier. an access modifier allows us to define the scope or how other parts of your code or even some else's code can access this code.
+2. class: the class keyword is usedto define a class with the name following the keywordand the {} are used to define the block or the class body.
+3. static: we need to have static for Java to find our method to run the code we are going to add.
+4. void: java keyword to indicate that the method will not return anything. 
+
+Method: Collection of statement(s) that performs an operation. We'll use a special method called the main method that Java looks when running a program. Its the entry point of the Java program[like int main() in C]
