@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="java more">
+      <change afterPath="$PROJECT_DIR$/src/cwh_10_resulting_datatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_12_ps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_13_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_14_string_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_15_ps3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2M95ySkSeGndCsJFgqGGQ4XOYSo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/REPOSITORIES/JAVA/FirstJavaProgramCWH",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.cwh_15_ps3">
+    <configuration name="Practice_set_ch2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Practice_set_ch2" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_10_resulting_datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_10_resulting_datatype" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_12_ps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_12_ps2" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_13_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_13_strings" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_14_string_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_14_string_methods" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_15_ps3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_15_ps3" />
+      <module name="FirstJavaProgramCWH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Practice_set_ch2" />
+      <item itemvalue="Application.cwh_10_resulting_datatype" />
+      <item itemvalue="Application.cwh_12_ps2" />
+      <item itemvalue="Application.cwh_13_strings" />
+      <item itemvalue="Application.cwh_14_string_methods" />
+      <item itemvalue="Application.cwh_15_ps3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cwh_15_ps3" />
+        <item itemvalue="Application.cwh_14_string_methods" />
+        <item itemvalue="Application.cwh_13_strings" />
+        <item itemvalue="Application.cwh_12_ps2" />
+        <item itemvalue="Application.cwh_10_resulting_datatype" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="" />
+      <created>1677167217594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677167217594</updated>
+    </task>
+    <task id="LOCAL-00001" summary="java more">
+      <created>1681033979514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681033979514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java more" />
+    <option name="LAST_COMMIT_MESSAGE" value="java more" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
