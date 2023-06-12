@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="java more">
-      <change afterPath="$PROJECT_DIR$/src/cwh_10_resulting_datatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_12_ps2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_13_strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_14_string_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_15_ps3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="java more" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/REPOSITORIES/JAVA/FirstJavaProgramCWH",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/REPOSITORIES/JAVA/JavaWithCWH&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.cwh_15_ps3">
+}</component>
+  <component name="RunManager" selected="Application.cwh_33_varargs">
     <configuration name="Practice_set_ch2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Practice_set_ch2" />
       <module name="FirstJavaProgramCWH" />
@@ -60,36 +52,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_10_resulting_datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_10_resulting_datatype" />
+    <configuration name="cwh_21_ch5_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_21_ch5_loops" />
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_12_ps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_12_ps2" />
+    <configuration name="cwh_26_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_26_arrays" />
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_13_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_13_strings" />
+    <configuration name="cwh_28_milti_d_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_28_milti_d_arr" />
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_14_string_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_14_string_methods" />
+    <configuration name="cwh_29_ch6_ps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_29_ch6_ps" />
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_15_ps3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_15_ps3" />
+    <configuration name="cwh_33_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_33_varargs" />
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,19 +89,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Practice_set_ch2" />
-      <item itemvalue="Application.cwh_10_resulting_datatype" />
-      <item itemvalue="Application.cwh_12_ps2" />
-      <item itemvalue="Application.cwh_13_strings" />
-      <item itemvalue="Application.cwh_14_string_methods" />
-      <item itemvalue="Application.cwh_15_ps3" />
+      <item itemvalue="Application.cwh_33_varargs" />
+      <item itemvalue="Application.cwh_21_ch5_loops" />
+      <item itemvalue="Application.cwh_26_arrays" />
+      <item itemvalue="Application.cwh_28_milti_d_arr" />
+      <item itemvalue="Application.cwh_29_ch6_ps" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.cwh_15_ps3" />
-        <item itemvalue="Application.cwh_14_string_methods" />
-        <item itemvalue="Application.cwh_13_strings" />
-        <item itemvalue="Application.cwh_12_ps2" />
-        <item itemvalue="Application.cwh_10_resulting_datatype" />
+        <item itemvalue="Application.cwh_33_varargs" />
+        <item itemvalue="Application.cwh_29_ch6_ps" />
+        <item itemvalue="Application.cwh_28_milti_d_arr" />
+        <item itemvalue="Application.cwh_26_arrays" />
+        <item itemvalue="Application.cwh_21_ch5_loops" />
       </list>
     </recent_temporary>
   </component>
@@ -133,11 +125,66 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
