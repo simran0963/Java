@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="java more" />
+=======
+    <list default="true" id="dbf2a43f-f0c4-4972-baf3-b014336cbe2e" name="Changes" comment="java more">
+      <change afterPath="$PROJECT_DIR$/src/cwh_10_resulting_datatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_12_ps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_13_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_14_string_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_15_ps3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +51,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -45,6 +62,18 @@
   }
 }</component>
   <component name="RunManager" selected="Application.cwh_33_varargs">
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/REPOSITORIES/JAVA/FirstJavaProgramCWH",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.cwh_15_ps3">
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
     <configuration name="Practice_set_ch2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Practice_set_ch2" />
       <module name="FirstJavaProgramCWH" />
@@ -52,36 +81,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="cwh_21_ch5_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_21_ch5_loops" />
+=======
+    <configuration name="cwh_10_resulting_datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_10_resulting_datatype" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="cwh_26_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_26_arrays" />
+=======
+    <configuration name="cwh_12_ps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_12_ps2" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="cwh_28_milti_d_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_28_milti_d_arr" />
+=======
+    <configuration name="cwh_13_strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_13_strings" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="cwh_29_ch6_ps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_29_ch6_ps" />
+=======
+    <configuration name="cwh_14_string_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_14_string_methods" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="cwh_33_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_33_varargs" />
+=======
+    <configuration name="cwh_15_ps3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_15_ps3" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       <module name="FirstJavaProgramCWH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,6 +143,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Practice_set_ch2" />
+<<<<<<< HEAD
       <item itemvalue="Application.cwh_33_varargs" />
       <item itemvalue="Application.cwh_21_ch5_loops" />
       <item itemvalue="Application.cwh_26_arrays" />
@@ -102,6 +157,21 @@
         <item itemvalue="Application.cwh_28_milti_d_arr" />
         <item itemvalue="Application.cwh_26_arrays" />
         <item itemvalue="Application.cwh_21_ch5_loops" />
+=======
+      <item itemvalue="Application.cwh_10_resulting_datatype" />
+      <item itemvalue="Application.cwh_12_ps2" />
+      <item itemvalue="Application.cwh_13_strings" />
+      <item itemvalue="Application.cwh_14_string_methods" />
+      <item itemvalue="Application.cwh_15_ps3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cwh_15_ps3" />
+        <item itemvalue="Application.cwh_14_string_methods" />
+        <item itemvalue="Application.cwh_13_strings" />
+        <item itemvalue="Application.cwh_12_ps2" />
+        <item itemvalue="Application.cwh_10_resulting_datatype" />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +195,7 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -156,10 +227,13 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
@@ -185,6 +259,9 @@
                 </map>
               </option>
             </State>
+=======
+            <State />
+>>>>>>> 477668783f9e86156e44d65c33741b2ff3d47d7b
           </value>
         </entry>
       </map>
